@@ -1,0 +1,10 @@
+1 rem = 15px
+body width mobile: 375px = 25rem
+
+width of card: 21.4rem measured, 22rem built.
+
+width of blue: measured 288px built at 19rem = 285px
+
+width of text measured at 247px
+
+First let's pull the image in there
