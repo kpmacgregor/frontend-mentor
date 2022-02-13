@@ -1,5 +1,7 @@
 1 rem = 15px
 body width mobile: 375px = 25rem
+light blue
+
 
 width of card: 21.4rem measured, 22rem built.
 
