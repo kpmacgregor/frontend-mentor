@@ -4,6 +4,7 @@ light blue
 
 
 width of card: 21.4rem measured, 22rem built.
+padding: 1.5rem found by trial and error
 
 width of blue: measured 288px built at 19rem = 285px
 
