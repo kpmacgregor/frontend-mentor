@@ -22,8 +22,8 @@ main {
   background-color: hsl(0, 0%, 100%);
   display: flex;
   flex-direction: column;
-  padding: 1.5rem;
-  width: 22rem;
+  padding: 1rem;
+  width: 21rem;
 }
 
 img {
