@@ -35,8 +35,9 @@ img {
 }
 
 h1 {
-  font-size: 1.5rem;
   color: hsl(218, 44%, 22%);
+  font-size: 1.5rem;
+  margin: 1em 0;
 }
 
 .attribution {
