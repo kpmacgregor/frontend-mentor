@@ -37,7 +37,14 @@ img {
 h1 {
   color: hsl(218, 44%, 22%);
   font-size: 1.5rem;
-  margin: 1em 0;
+  margin: 1em 0 0.75em 0;
+  text-align: center;
+}
+
+p {
+  color: hsl(220, 15%, 55%);
+  margin: 0 1em 1.5em;
+  text-align: center;
 }
 
 .attribution {
